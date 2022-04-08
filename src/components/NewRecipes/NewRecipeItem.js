@@ -3,8 +3,6 @@ import { DatosContext } from "../../DataContext";
 
 export const NewRecipeItem = () => {
   const first = useContext(DatosContext);
-  const reqicons = require.context("../../assets/icons", true);
-
   return (
     <>
       <div className="container__new-recipe-items">
@@ -34,35 +32,35 @@ export const NewRecipeItem = () => {
               <div className="container__star-fav">
                 <img
                   className="star"
-                  src={reqicons("./ic_star.svg")}
+                  src='https://i.imgur.com/tMv75sm.jpeg'
                   alt="icon"
                 />
                 <h2>{item.aggregateLikes}</h2>
                 <img
                   className="fav"
-                  src={reqicons("./ic-favorite.svg")}
+                  src='https://i.imgur.com/ruc5Tyl.jpeg'
                   alt="icon"
                 />
               </div>
             </div>
             <div className="container__new-recipe-item-info">
               <img
-                className="portion"
-                src={reqicons("./ic_portion.svg")}
+                className="icon"
+                src="https://i.imgur.com/dyzSCed.jpeg"
                 alt="icon"
               />
               <h1>Tamaño de la porcion</h1>
               <h2>{item.servings} Raciones</h2>
               <img
-                className="time"
-                src={reqicons("./ic_time.svg")}
+                className="icon"
+                src="https://i.imgur.com/TlfPH7C.jpeg"
                 alt="icon"
               />
               <h1>Tiempo de preparacion</h1>
               <h2>{item.readyInMinutes}</h2>
               <img
-                className="chef"
-                src={reqicons("./ic_chef.svg")}
+                className="icon"
+                src="https://i.imgur.com/HDitIz5.jpeg"
                 alt="icon"
               />
               <h1>Dificultad</h1>
