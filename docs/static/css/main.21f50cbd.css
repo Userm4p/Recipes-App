@@ -71,6 +71,7 @@ main {
   }
   .homeicon {
     display: flex;
+    height: 5vw;
   }
 }
 @media screen and (min-width: 821px) {
@@ -534,4 +535,4 @@ main {
     width: 24vw;
   }
 }
-/*# sourceMappingURL=main.00699f84.css.map*/
+/*# sourceMappingURL=main.21f50cbd.css.map*/

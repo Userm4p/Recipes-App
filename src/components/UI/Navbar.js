@@ -2,7 +2,6 @@ import React from "react";
 
 export const Navbar = () => {
 
-    const reqicon = require.context("../../assets/icons", true);
 
   return (
     <div>
@@ -21,7 +20,7 @@ export const Navbar = () => {
           <h5 className="pointer">Menu Niños</h5>
           <h5 className="pointer">Sopas</h5>
         </div>
-        <img className="pointer homeicon" src={reqicon('./ic_home.svg')} alt="home" />
+        <img className="pointer homeicon" src="https://i.imgur.com/Cb7AD0k.jpeg" alt="home" />
       </nav>
     </div>
   );

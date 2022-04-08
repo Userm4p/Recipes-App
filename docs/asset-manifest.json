@@ -1,34 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.00699f84.css",
-    "main.js": "/static/js/main.03ebef78.js",
-    "static/media/bcq.jpg": "/static/media/bcq.c34e44b3e59aa9816164.jpg",
-    "static/media/Grupo 7610.png": "/static/media/Grupo 7610.b2bbff17ca1781a1d459.png",
+    "main.css": "/static/css/main.21f50cbd.css",
+    "main.js": "/static/js/main.9e9f55bc.js",
     "static/media/Poppins-Light.ttf": "/static/media/Poppins-Light.7641a0f76ca9ef6c252c.ttf",
-    "static/media/Poppins-Medium.ttf": "/static/media/Poppins-Medium.673ed42382ab264e0bf5.ttf",
-    "static/media/cherry.png": "/static/media/cherry.601aa43496427d7938d0.png",
-    "static/media/Ojingeo-muchim-5.png": "/static/media/Ojingeo-muchim-5.3ae80bfbd72d61b72b2d.png",
     "static/media/monster-clubhouse.ttf": "/static/media/monster-clubhouse.526c6ff9781ae1c36baf.ttf",
-    "static/media/Ojingeo-muchim.png": "/static/media/Ojingeo-muchim.294fdf381509ada8d691.png",
-    "static/media/Ojingeo-muchim-1.png": "/static/media/Ojingeo-muchim-1.9ffcaf222e9b920d35bc.png",
-    "static/media/ic_time.svg": "/static/media/ic_time.7f15072ffbaadf733553.svg",
-    "static/media/ic_cake.svg": "/static/media/ic_cake.c70db41a49993489372d.svg",
-    "static/media/ic_vegetarian.svg": "/static/media/ic_vegetarian.8492fb5b70affc98a0a5.svg",
-    "static/media/ic_portion.svg": "/static/media/ic_portion.6d70690b9d859084b3e4.svg",
-    "static/media/ic_kids.svg": "/static/media/ic_kids.a776f77f8b46bf84dca1.svg",
-    "static/media/ic_chef.svg": "/static/media/ic_chef.321917ec66678090104a.svg",
-    "static/media/ic_soup.svg": "/static/media/ic_soup.e654cc6d794245907ac9.svg",
-    "static/media/ic_main.svg": "/static/media/ic_main.4fcfa5fe9df45b4fb143.svg",
-    "static/media/ic_home.svg": "/static/media/ic_home.fc2ca198735d6f9bb942.svg",
-    "static/media/ic_fast-food.svg": "/static/media/ic_fast-food.c7d435ef1f0424bcecea.svg",
     "index.html": "/index.html",
-    "static/media/ic_star.svg": "/static/media/ic_star.b7fc05fe39bff5a8a9ef.svg",
-    "static/media/ic-favorite.svg": "/static/media/ic-favorite.ca2e91db7f9cf246b744.svg",
-    "main.00699f84.css.map": "/static/css/main.00699f84.css.map",
-    "main.03ebef78.js.map": "/static/js/main.03ebef78.js.map"
+    "main.21f50cbd.css.map": "/static/css/main.21f50cbd.css.map",
+    "main.9e9f55bc.js.map": "/static/js/main.9e9f55bc.js.map"
   },
   "entrypoints": [
-    "static/css/main.00699f84.css",
-    "static/js/main.03ebef78.js"
+    "static/css/main.21f50cbd.css",
+    "static/js/main.9e9f55bc.js"
   ]
 }
