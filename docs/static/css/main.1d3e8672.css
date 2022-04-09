@@ -91,51 +91,45 @@ main {
   background-image: url(https://i.imgur.com/ZsEgBvd.jpeg);
   background-size: auto;
   height: 35vh;
-  margin-top: 70px;
+  margin-top: 7vh;
   width: 100%;
 }
 .container__main-page h1 {
   font-family: Poppins-Light;
-  padding-top: 134px;
-  position: relative;
+  padding-top: 5vh;
 }
 .container__main-page h1,
 .container__main-page p {
   color: #fff;
-  font-size: 80px;
+  font-size: 8vh;
   font-weight: lighter;
-  padding-left: 271px;
+  padding-left: 15vw;
+  position: relative;
 }
 .container__main-page p {
-  height: 50vh;
-  margin-top: -6vh;
-  position: absolute;
-  width: 50vh;
+  margin-top: -5vh;
 }
 @media screen and (max-width: 820px) {
   .container__main-page {
     background-image: url(https://i.imgur.com/ZsEgBvd.jpeg);
     background-size: auto;
     height: 34vh;
-    margin-top: 70px;
     width: 100%;
   }
   .container__main-page h1 {
+    color: #fff;
     font-family: Poppins-Light;
     font-size: 14vw;
-    padding-top: 100px;
+    font-weight: lighter;
     position: relative;
   }
-  .container__main-page h1,
   .container__main-page p {
     color: #fff;
-    font-weight: lighter;
-    padding-left: 100px;
-  }
-  .container__main-page p {
     font-size: 10vw;
+    font-weight: lighter;
     height: 40vh;
     margin-top: -4vh;
+    padding-left: 100px;
     position: fixed;
     position: relative;
     width: 40vw;
@@ -181,15 +175,15 @@ main {
   border-top-right-radius: 0;
   display: flex;
   flex-direction: column;
-  height: 28vh;
+  height: 35vh;
   justify-content: space-between;
-  margin-top: -17vh;
+  margin-top: -28vh;
   opacity: 0;
   padding-bottom: 1rem;
   padding-top: 1rem;
   transition: all 0.2s ease-in;
   visibility: hidden;
-  width: 18vw;
+  width: 20vw;
 }
 .container__new-recipe-item-info:hover {
   opacity: 1;
@@ -218,12 +212,12 @@ main {
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
-  height: 28vh;
+  height: 35vh;
   justify-content: space-between;
   margin-top: -12vh;
-  padding-top: 1rem;
+  padding-top: 5vh;
   visibility: visible;
-  width: 18vw;
+  width: 20vw;
 }
 .container__new-recipe-item-text:hover + .container__new-recipe-item-info {
   opacity: 1;
@@ -242,8 +236,8 @@ main {
   color: #d84a4a;
   font-family: Poppins-Light;
   font-size: 1.2vw;
-  margin-top: 15px;
-  padding-top: 90px;
+  margin-top: 1vh;
+  padding-top: 8vh;
   text-align: center;
 }
 .container__new-recipe-item-text span {
@@ -535,4 +529,4 @@ main {
     width: 24vw;
   }
 }
-/*# sourceMappingURL=main.21f50cbd.css.map*/
+/*# sourceMappingURL=main.1d3e8672.css.map*/

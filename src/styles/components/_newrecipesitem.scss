@@ -16,8 +16,8 @@
     border-bottom: #bfccd496 solid 2px;
     border-left: #bfccd4d3 solid 1px;
     border-top: transparent;
-    height: 28vh;
-    width: 18vw;
+    height: 35vh;
+    width: 20vw;
     opacity: 0;
     visibility: hidden;
     transition: all ease-in .2s;
@@ -26,7 +26,7 @@
     align-items: center;
     flex-direction: column;
     justify-content: space-between;
-    margin-top: -17vh;
+    margin-top: -28vh;
     padding-top: 1rem;
     padding-bottom: 1rem;
     &:hover {
@@ -63,11 +63,11 @@
     align-items: center;
     flex-direction: column;
     flex-wrap: wrap;
-    height: 28vh;
-    width: 18vw;
+    height: 35vh;
+    width: 20vw;
     justify-content: space-between;
     margin-top: -12vh;
-    padding-top: 1rem;
+    padding-top: 5vh;
     visibility: visible;
 
     &:hover+.container__new-recipe-item-info {
@@ -92,8 +92,8 @@
     color: #D84A4A;
     font-size: 1.2vw;
     font-family: 'Poppins-Light';
-    margin-top: 15px;
-    padding-top: 90px;
+    margin-top: 1vh;
+    padding-top: 8vh;
     text-align: center;
 }
 
