@@ -12,13 +12,14 @@
     box-shadow: 2px 4px 10px rgb(97, 97, 97);
 }
 .footerimg{
-    height: 25vh;
+    height: 260px;
+    width: 540px;
 }
 .container__footer h1 {
     color: #425966;
     text-align: left;
     margin-left: 166px;
-    font-size: 4.5vw;
+    font-size: 60px;
     font-weight: lighter;
 }
 
@@ -32,11 +33,12 @@
         font-weight: lighter;
     }
     .footerimg{
-        height: 12vh;
+        height: 170px;
+        width: 380px;
     }
 }
 
-@media screen and (max-width: 390px) {
+@media screen and (max-width: 500px) {
     
 
     .container__footer{
@@ -47,11 +49,12 @@
         color: #425966;
         text-align: left;
         margin-left: 10px;
-        font-size: 6vw;
+        font-size: 20px;
         font-weight: lighter;
     }
     .footerimg{
-        height: 10vh;
+        height: 106px;
+        width: 230px;
 
     }
 }
